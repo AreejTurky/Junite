@@ -1,0 +1,38 @@
+{
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.colorCustomizations": {
+        "terminal.foreground" : "#00FD61",
+        "terminal.background" : "#000000"
+    },
+    "breadcrumbs.enabled": false,
+    "files.autoSave": "afterDelay",
+    "workbench.editorAssociations": {
+        "*.java": "default"
+    },
+    "editor.guides.bracketPairs": true,
+    "mssql.connections": [],
+    "terminal.explorerKind": "external",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+          "C:\\Users\\Areej\\Downloads\\junit-platform-console-standalone-1.8.2.jars"
+    ]
+}
